@@ -98,7 +98,7 @@
     "imagemin": "^6.1.0",
     "img-loader": "^3.0.1",
     "jest": "^23.6.0",
-    "jest-html-reporter": "^2.4.2",
+    "jest-html-reporter": "^2.4.3",
     "jsdom-global": "^3.0.2",
     "jshint": "^2.9.7",
     "less": "^3.9.0",
